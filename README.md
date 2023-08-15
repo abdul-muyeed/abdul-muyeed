@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **C++, C, Java, Python, JavaScript, HTML, CSS, PHP**
 
-- 📫 How to reach me **abdul-muyeed@gmail.com**
+- 📫 How to reach me **abdulmuyeed47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
